@@ -14,7 +14,6 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-[View it on GitHub](https://github.com/cyy1133/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -26,16 +25,7 @@ permalink: /
 
 이 블로그는 [Jekyll](https://jekyllrb.com), 로 만들어졌습니다.
 혹시.. 비슷하게 만들어 보고 싶으신 분은 이쪽을 확인해 주세요. 
-View the [quick start guide](https://jekyllrb.com/docs/). 
-
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+[quick start guide](https://jekyllrb.com/docs/). 
 
 ### Code of Conduct
 
