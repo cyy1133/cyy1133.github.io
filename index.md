@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Post
 title: Home
 nav_order: 1
 description: "블로그 메인페이지 입니다."
